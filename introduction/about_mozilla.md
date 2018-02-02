@@ -6,7 +6,7 @@ Mozilla's products include the Firefox web browser, Thunderbird e-mail client, F
 
 https://www.mozilla.org/
 
-## Mozilla Campus Clubs
+### Mozilla Campus Clubs
 
 The vision for Campus Clubs is to spark a movement -- a loud voice, a breeding ground for new ideas, a massive force, a deep talent pool -- that powers the open web to new heights.
 
