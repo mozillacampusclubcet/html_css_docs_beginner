@@ -1,6 +1,8 @@
 # HTML5 CSS3 Documentation for Beginners - Mozilla Campus Club CET
 Basic documentation on HTML5, CSS3 specifically targeting beginners.
 
+https://mozillacampusclubcet.github.io/html_css_docs_beginner/
+
 In your path towards learning the basics of web especially HTML5 and CSS3, this documentation will prove helpful hopefully.
 
 Learning the web is quite an easy task but requires continous dedication, passion and patience. So if you don't grasp a concept at first, try it again.
